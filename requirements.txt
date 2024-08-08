@@ -1,0 +1,6 @@
+pandas
+numpy
+pickle
+json
+streamlit
+streamlit_option_menu
